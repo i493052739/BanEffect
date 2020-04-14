@@ -1,0 +1,9 @@
+
+bannedEffect:
+  - 'UNKNOWN_EFFECT_TYPE_32'
+
+# Messages
+enableMsg: false
+Msg_Cancel: "&b[BanEffect]&a由于您获得了一个BUG效果，该效果已被修复"
+Msg_Reload: "&b[BanEffect]&aBanEffect已重载！"
+Msg_Reject: "&b[BanEffect]&c权限不足，无法执行指令！"

@@ -1,0 +1,9 @@
+name: BanEffect
+main: com.snowk.snowkEffectFixer.BanEffect
+depend: [ProtocolLib]
+author: Bear
+version: 1.0
+api-version: 1.12
+commands: 
+  baneffect:
+    aliases: [be]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MinecraftPlugin/Spigot/Spigot-API/target/spigot-api-1.12.2-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MinecraftPlugin/craftbukkit-1.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MinecraftPlugin/work/minecraft_server.1.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MinecraftPlugin/1.12.2/item-nbt-api-plugin-2.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/MCSManager_8.6.1_Win/server/server_core/BearPluginTest/plugins/[基础-前置-多插件需求]ProtocolLib-4.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
